@@ -16,6 +16,8 @@ HOST = "localhost"
 
 # NodeJS Version Used
 
+v18.12.1.
+
 # DATABASE
 
 CREATE DATABASE rentaldb;
