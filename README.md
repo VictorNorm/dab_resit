@@ -2,6 +2,16 @@
 
 # Application Installation and Usage Instructions
 
+Clone the repo and install the dependencies using npm install.
+
+Create a database and make a connection in mysql workbench with the relevant credentials.
+
+When the connection is established run the app using npm start once to create the relevant tables with Sequelize.
+
+Use the data inserts below to populate the database.
+
+Creating users is not functional, you will have to use the accounts populated with the insert scripts.
+
 # Environment Variables
 
 ADMIN_USERNAME = "trainingPlannerAdmin"
