@@ -4,6 +4,14 @@
 
 # Environment Variables
 
+ADMIN_USERNAME = "trainingPlannerAdmin"
+ADMIN_PASSWORD = "Kjellduel6!!"
+DATABASE_NAME = "rentaldb"
+DIALECT = "mysql"
+DIALECTMODEL = "mysql2"
+PORT = "3000"
+HOST = "localhost"
+
 # Additional Libraries/Packages
 
 # NodeJS Version Used
